@@ -26,8 +26,8 @@
 
 /* Estilo Desktop */
 body{
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #000000;
+    color: #ffffff;
 
 }
 /*h1, p, a{
@@ -40,7 +40,7 @@ header img{
 }
 
 h1{
-    font-size: 64px;
+    font-size: 80px;
     font-family: "unbounded", sans-serif;
     text-align: center;
     margin-top: 60px;
